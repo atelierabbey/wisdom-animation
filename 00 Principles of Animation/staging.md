@@ -1,0 +1,5 @@
+Readability
+Composition
+Focus
+Timing
+Silhouette

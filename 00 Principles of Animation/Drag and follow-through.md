@@ -1,0 +1,3 @@
+Drag
+Follow through
+Enertia

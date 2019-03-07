@@ -1,0 +1,1 @@
+Can be applied to all concepts
