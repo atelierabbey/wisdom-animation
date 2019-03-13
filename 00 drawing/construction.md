@@ -1,0 +1,1 @@
+Drawing 3d objects on a 2d plane is a difficult task. But, if you can train your mind to see complex objects as a construction of simple primitive shapes, drawing becomes more than scratching lines on a page.
